@@ -1,3 +1,21 @@
 page-home {
 
 }
+
+ion-card {
+  border-radius: 16px !important;
+}
+
+ion-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+ion-content {
+  background: color($colors, secondary, base) !important;
+}
+
+.toolbar-background {
+  background: color($colors, primary, base) !important;
+}
